@@ -1,4 +1,4 @@
-# Шаблон проекта проекта автоматизации android приложения
+# Шаблон проекта автоматизации android приложения
   -  kaspresso https://github.com/KasperskyLab/Kaspresso
   - allure-kotlin https://github.com/allure-framework/allure-kotlin
  
